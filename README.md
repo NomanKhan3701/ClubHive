@@ -1,4 +1,4 @@
-#  CSI Hackathon
+#  CSI Foss hack winner 🥇
 ![logo](./docs/images/logo.png)
 ## 📌 Introduction:
 ### Types of User:
